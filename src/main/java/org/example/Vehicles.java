@@ -15,5 +15,6 @@ public class Vehicles {
         vehicles.car();
         vehicles.car("KIA");
         vehicles.car("Mercedes");
+        vehicles.car("BMW");
     }
 }
