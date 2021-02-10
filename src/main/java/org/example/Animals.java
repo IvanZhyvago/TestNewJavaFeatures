@@ -13,5 +13,9 @@ public class Animals {
         Animals animals = new Animals();
         animals.voice();
         animals.color();
+
+        animals.voice();
+        animals.color();
+
     }
 }
