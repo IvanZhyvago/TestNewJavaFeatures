@@ -5,8 +5,13 @@ public class Animals {
         System.out.println("rrrr");
     }
 
+    void color () {
+        System.out.println("white");
+    }
+
     public static void main(String[] args) {
         Animals animals = new Animals();
         animals.voice();
+        animals.color();
     }
 }
