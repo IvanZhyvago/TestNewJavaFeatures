@@ -14,5 +14,6 @@ public class Vehicles {
         Vehicles vehicles = new Vehicles();
         vehicles.car();
         vehicles.car("KIA");
+        vehicles.car("Mercedes");
     }
 }
